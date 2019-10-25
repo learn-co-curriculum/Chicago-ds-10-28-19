@@ -5,7 +5,7 @@
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
 
-[Attendance](https://docs.google.com/spreadsheets/d/1XooBQpwlSm_V6Rdgeg29jeqiJEwMVtB9TofZ49F_zZI/edit?ts=5d3b1607#gid=0)
+[Attendance]()
 
 [Class Repository](https://github.com/learn-co-students/Chicago-ds-10-28-19)
 
