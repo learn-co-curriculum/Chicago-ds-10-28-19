@@ -1,7 +1,6 @@
 # Chicago-ds-10-28-19
 Class repository
 
-# chicago-ds-080519
 
 
 ## Important links 
