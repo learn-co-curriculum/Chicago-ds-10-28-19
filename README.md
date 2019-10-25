@@ -5,8 +5,6 @@
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
 
-[Attendance](https://docs.google.com/spreadsheets/d/1Ivxf35HZ-Y4ZIhXrCK0FpC_PfKoCIldB2msqotN7OUE/edit#gid=0)
-
 [Class Repository](https://github.com/learn-co-students/chicago-102819)
 
 # Class Schedule (click if unable to view here)
