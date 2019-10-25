@@ -10,5 +10,4 @@
 [Class Repository](https://github.com/learn-co-students/Chicago-ds-10-28-19)
 
 # Class Schedule (click if unable to view here)
-<iframe src="https://calendar.google.com/calendar?cid=ZmxhdGlyb25zY2hvb2wuY29tX240dThydG9pYXYxam5vM2N0Y2llMDYwMjVnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_n4u8rtoiav1jno3ctcie06025g%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
